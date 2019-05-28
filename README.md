@@ -1,4 +1,3 @@
-# vk_internship
 # Count-distinct problem
 Soluton for count-distinct problem using HyperLogLog and MurMurHash
 
